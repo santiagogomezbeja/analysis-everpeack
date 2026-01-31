@@ -9,14 +9,6 @@ El dataset `everpeak_retail` incluye 2,000 órdenes de clientes con valores falt
 - `notebooks/everpeak_analysis.ipynb`
   → Notebook principal con limpieza, EDA, distribuciones, outliers y conclusiones.
 
-## ▶ Cómo abrir el notebook en Google Colab
-
-Haz clic en el siguiente botón:
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](URL_DEL_NOTEBOOK_EN_GITHUB)
-
-O:
-
 1. Abre el archivo `.ipynb` en GitHub
 2. Haz clic en **Open in Colab**
 
